@@ -35,6 +35,8 @@ It's a digital card that displays an image and a phrase. You can respond with "Y
   - All mounted on a breadboard
 
 ---
+
+Un robot estático o móvil que entrega un mensaje de San Valentín de forma interactiva. Usa un servo para "abrir una carta" o girar una pantalla, una matriz LED para mostrar un ícono emocional (💖, 😢) y recibe la respuesta del usuario con un botón o joystick.
 -->
 
 ## currently a work in progress
